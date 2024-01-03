@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "outDir": "out/",
+    "rootDir": "src/",
+    "declarationDir": "dec/",
+    "declaration": true,
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "types": ["node"],
+    "typeRoots": ["node_modules/@types", "src/types", "node_modules/discord.js/typings"],
+  }
+}

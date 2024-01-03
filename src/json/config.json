@@ -1,0 +1,7 @@
+{
+    "token": "MTE4OTYwODM5NjUxNzgyMjUxNA.GzC9zE.NyAwqZ4q27VXBTER9kveESmW6x0sLHSuw5mLW4",
+    "clientId": "1189608396517822514",
+    "dblink": "mongodb+srv://KRusl:9BbQvCGWbN0nq5Jd@cluster0.rvtiah3.mongodb.net/rbot?retryWrites=true&w=majority",
+    "greetingRoleId": "1189168893370044456",
+    "greetingChannelId": "1189166388582035516"
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongoose": "^6.9.0",
+    "tslint": "^6.1.3"
+  },
+  "scripts": {
+    "start": "npx tsc && node out/bot.js",
+    "start-sync": "npx tsc && node out/bot.js --sync"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "typescript": "^5.0.4"
+  }
+}
