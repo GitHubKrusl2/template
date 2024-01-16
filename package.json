@@ -9,7 +9,7 @@
     "start-sync": "npx tsc && node out/bot.js --sync"
   },
   "devDependencies": {
-    "@types/node": "^20.8.9",
+    "@types/node": "^20.11.4",
     "typescript": "^5.0.4"
   }
 }
